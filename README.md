@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Celal Aydın</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/celal1330](https://github.com/celal1330)
+- 👨‍💻 All of my projects are available at [https://github.com/celal1330]
 
 - 📫 How to reach me **celal1330@gmail.com**
 
